@@ -8,6 +8,8 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -37,8 +39,6 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -72,8 +72,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -84,11 +82,11 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -96,11 +94,15 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentvpn.club:6990/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -142,8 +144,6 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://uabits.today:6990/announce
@@ -151,8 +151,6 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
