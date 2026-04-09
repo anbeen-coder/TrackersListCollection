@@ -14,21 +14,19 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt1.xxxxbt.cc:6969/announce
+http://bt.okmp3.ru:2710/announce
 
-http://bughome.de:2832/announce
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://ftp.pet:2710/announce
 
+http://jvavav.com:80/announce
+
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://s1130642.ha014.t.mydomain.zone:80/announce
 
@@ -40,9 +38,11 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.cutie.dating:80/announce
+
+http://tracker.darkness.services:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -54,19 +54,17 @@ http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.sbsub.com:2710/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.skyts.net:6969/announce
+
+http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -83,6 +81,8 @@ http://tracker3.ctix.cn:8080/announce
 https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://cny.fan:443/announce
 
 https://colibri.parrot.run:443/announce
 
@@ -112,8 +112,6 @@ https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cutie.dating:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -121,8 +119,6 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.manager.v6.navy:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me:443/announce
 
@@ -132,15 +128,17 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker.yggleak.top:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://wolf.parrot.run:443/announce
-
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -160,8 +158,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -179,8 +175,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -213,8 +207,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.darkness.services:6969/announce
-
-udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -268,6 +260,8 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
+udp://tracker.wepzone.net:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
@@ -284,7 +278,11 @@ udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+udp://udp1.torrust-tracker-demo.com:6969/announce
+
 udp://utracker.ghostchu-services.top:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.nartlof.com:6969/announce
 
