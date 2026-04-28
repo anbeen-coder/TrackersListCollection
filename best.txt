@@ -20,8 +20,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker3.ctix.cn:8080/announce
 
 http://www.wareztorrent.com:80/announce
@@ -88,8 +86,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -115,6 +111,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
