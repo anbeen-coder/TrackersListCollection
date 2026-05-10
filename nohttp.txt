@@ -52,8 +52,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://speedtest.iperson.xyz:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -147,6 +145,8 @@ udp://vito-tracker.duckdns.org:6969/announce
 udp://vito-tracker.space:2095/announce
 
 udp://vito-tracker.space:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
