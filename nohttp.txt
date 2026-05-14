@@ -34,6 +34,8 @@ udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.demonoid.ch:6969/announce
+
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
@@ -52,6 +54,8 @@ udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://torrent.bowed.net:8081/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://torrents.tmtime.dev:6969/announce
@@ -67,8 +71,6 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -108,11 +110,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrentclaw.com:1337/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -127,8 +129,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://trackthis.cyber.pz.it:1337/announce
 
 udp://u.peer-exchange.download:6969/announce
 
