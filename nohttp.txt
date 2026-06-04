@@ -52,6 +52,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://seedpeer.net:6969/announce
 
+udp://speedtest.iperson.xyz:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -130,6 +132,8 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
+udp://tracker.yume-hatsuyuki.moe:6969/announce
+
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -145,6 +149,8 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
