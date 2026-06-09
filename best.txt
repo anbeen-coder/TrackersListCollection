@@ -16,9 +16,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.waaa.moe:6969/announce
+http://tracker.tritan.gg:8080/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker.waaa.moe:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -29,8 +29,6 @@ https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -84,6 +82,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.004430.xyz:1337/announce
+
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
@@ -100,7 +100,7 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -121,8 +121,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
