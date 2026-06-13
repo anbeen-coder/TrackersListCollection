@@ -10,13 +10,9 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
-
-http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -26,6 +22,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
@@ -34,17 +32,11 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -54,13 +46,13 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -89,6 +81,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -154,8 +148,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://obey.torrentonline.cc:42069/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -165,6 +157,8 @@ udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -206,9 +200,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dorcus.digital:1337/announce
 
+udp://tracker.ducks.party:1984/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -217,6 +215,8 @@ udp://tracker.hismz.cn:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
@@ -238,11 +238,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.wildkat.net:6969/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
@@ -255,6 +251,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://uabits.today:6990/announce
+
+udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
 
