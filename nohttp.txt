@@ -34,6 +34,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://obey.torrentonline.cc:42069/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -96,6 +98,8 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
@@ -143,6 +147,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
