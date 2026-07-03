@@ -44,8 +44,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
@@ -80,9 +78,9 @@ https://open.ftorrent.com:443/announce
 
 https://orgtgju.org:443/announce
 
-https://shahidrazi.online:443/announce
+https://pybittrack.retiolus.net:443/announce
 
-https://staticfile-bobcat.wasmer.app:443/announce
+https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -96,8 +94,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.anibt.net:443/announce
@@ -105,6 +101,8 @@ https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.isbigdick.cc.cd:443/announce
 
 https://tracker.kuroy.me:443/announce
 
