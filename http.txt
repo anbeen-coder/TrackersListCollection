@@ -10,6 +10,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -30,6 +32,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.highstar.shop:80/announce
+
 http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
@@ -48,6 +52,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
@@ -57,6 +63,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.therarbg.to:6969/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -86,6 +94,8 @@ https://orgtgju.org:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -107,8 +117,6 @@ https://tracker.anibt.net:443/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.isbigdick.cc.cd:443/announce
 
 https://tracker.kuroy.me:443/announce
 
