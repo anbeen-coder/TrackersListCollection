@@ -1,10 +1,6 @@
 http://004430.xyz:80/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://107.189.2.131:1337/announce
-
-http://132.243.161.144:6969/announce
 
 http://1337.abcvg.info:80/announce
 
@@ -18,8 +14,6 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
@@ -30,15 +24,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://jvavav.com:80/announce
 
-http://maxsrv.xyz:9000/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://shubt.net:2710/announce
+http://supertracker.cc.cd:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -48,11 +42,11 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -60,21 +54,19 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
-http://tracker.plx.im:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.therarbg.to:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -87,8 +79,6 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -106,15 +96,11 @@ https://open.ftorrent.com:443/announce
 
 https://orgtgju.org:443/announce
 
-https://php-bobcat.wasmer.app:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
