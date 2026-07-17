@@ -86,13 +86,9 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.nexusstream.eu:6969/announce
 
@@ -121,8 +117,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
