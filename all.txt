@@ -22,6 +22,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -36,6 +38,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.23794.top:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -48,7 +52,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -57,6 +61,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -95,6 +101,8 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.adgk.net:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -228,6 +236,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -239,6 +249,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
