@@ -20,17 +20,13 @@ http://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://jvavav.com:80/announce
-
 http://lucke.fenesisu.moe:6969/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
-
-http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -50,6 +46,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
@@ -63,8 +61,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -81,8 +77,6 @@ http://tracker2.dler.org:80/announce
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
-
-https://021912.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -104,11 +98,15 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.adgk.net:443/announce
 
 https://tracker.bt4g.com:443/announce
 
