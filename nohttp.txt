@@ -44,6 +44,8 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -112,8 +114,6 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -138,6 +138,8 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -153,6 +155,4 @@ udp://tracker4.itzmx.com:2710/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 

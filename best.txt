@@ -28,8 +28,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -52,8 +50,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -68,21 +64,25 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://rekcart.duckdns.org:15480/announce
+
 udp://retracker.hotplug.ru:2710/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -98,9 +98,9 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -111,8 +111,6 @@ udp://tracker.linvk.com:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -130,11 +128,11 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.wildkat.net:6969/announce
+udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
