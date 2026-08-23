@@ -10,6 +10,8 @@ udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://coeus.torrentonline.cc:42069/announce
+
 udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
@@ -61,8 +63,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -129,6 +129,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
