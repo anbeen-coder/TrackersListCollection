@@ -20,15 +20,13 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://buny.uk:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://shubt.net:2710/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.overflow.biz:6969/announce
 
@@ -57,8 +55,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -92,15 +88,11 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
 
-https://tracker.adgk.net:443/announce
-
 https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -212,8 +204,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -238,8 +228,6 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -254,6 +242,8 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -265,6 +255,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://udp-tracker.adgk.net:6969/announce
 
 udp://v6.vito-tracker.space:6969/announce
 
