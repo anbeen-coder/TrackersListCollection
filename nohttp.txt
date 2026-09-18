@@ -28,6 +28,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://obey.torrentonline.cc:42069/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
@@ -53,8 +55,6 @@ udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -83,6 +83,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -115,6 +117,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
