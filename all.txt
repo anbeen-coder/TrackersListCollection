@@ -1,3 +1,5 @@
+http://004430.xyz:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -25,6 +27,8 @@ http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -70,6 +74,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -92,6 +98,8 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
+https://tracker.zhuqiy.com:443/announce
+
 https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
@@ -106,8 +114,6 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
-udp://archive.torrentonline.cc:42069/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
@@ -120,13 +126,13 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
 
+udp://kolanopentracker.airdns.org:3392/announce
+
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
-
-udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -159,6 +165,8 @@ udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -206,8 +214,6 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -217,6 +223,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
