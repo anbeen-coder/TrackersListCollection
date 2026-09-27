@@ -94,8 +94,6 @@ udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
-udp://tracker.opentorrent.top:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -116,8 +114,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.willy.pro:6969/announce
@@ -135,8 +131,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v2.iperson.xyz:6969/announce
-
-udp://v6.vito-tracker.space:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
