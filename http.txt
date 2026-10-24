@@ -88,8 +88,6 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.midnightprogrammer.net:443/announce
-
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
