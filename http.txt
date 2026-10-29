@@ -26,8 +26,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -64,6 +62,8 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://gargoyleperch.de:443/announce
+
 https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
@@ -92,7 +92,7 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
+https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
