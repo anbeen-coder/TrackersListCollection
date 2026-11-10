@@ -46,6 +46,8 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -75,6 +77,8 @@ https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.augrains.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
