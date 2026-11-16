@@ -44,8 +44,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
