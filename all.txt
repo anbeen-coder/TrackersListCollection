@@ -24,8 +24,6 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -41,8 +39,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -122,6 +118,8 @@ udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
+udp://ipv6.govt.hu:6969/announce
+
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 udp://mail.segso.net:6969/announce
@@ -142,17 +140,11 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.lain.moscow:6969/announce
-
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://stairs.lat:6969/announce
 
@@ -170,8 +162,6 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.alt.cx:6969/announce
 
-udp://tracker.aruku.ovh:8081/announce
-
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
@@ -188,13 +178,15 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.farted.net:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -211,8 +203,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
