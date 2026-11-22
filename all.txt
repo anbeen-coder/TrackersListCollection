@@ -26,11 +26,15 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -68,13 +72,17 @@ https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://tr.abiir.top:443/announce
+https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
+https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://track3r.site:443/announce
+
 https://tracker.7471.top:443/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://tracker.augrains.com:443/announce
 
@@ -135,8 +143,6 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -200,11 +206,11 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.ixuexi.click:6969/announce
 
 udp://tracker.k.vu:6969/announce
 
@@ -224,11 +230,11 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.sela.st:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 

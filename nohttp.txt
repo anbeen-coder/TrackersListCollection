@@ -40,8 +40,6 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -104,11 +102,11 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.ixuexi.click:6969/announce
 
 udp://tracker.k.vu:6969/announce
 
@@ -128,11 +126,11 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.sela.st:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
