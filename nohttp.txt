@@ -22,6 +22,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://hidden.torrentonline.cc:42069/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -58,6 +60,8 @@ udp://seedpeer.net:6969/announce
 
 udp://stairs.lat:6969/announce
 
+udp://su-data.com:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://t1.itrus.su:1212/announce
@@ -73,8 +77,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
-
-udp://tracker.23794.top:6969/announce
 
 udp://tracker.alt.cx:6969/announce
 
@@ -155,6 +157,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
